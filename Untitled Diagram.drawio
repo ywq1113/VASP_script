@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T15:32:09.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="AY9rOUy5mQrYws8w7Cy5" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T15:50:20.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xmREH610wHBm8-IXr2r9" version="13.6.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-108" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ppui 模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g57g3PAnQJYOMXpyq4fn-108" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ppui 模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="68" width="250" height="192" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;start&lt;/font&gt;" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
@@ -22,13 +22,13 @@
             <mxPoint x="499.25" y="111" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-95" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g57g3PAnQJYOMXpyq4fn-95" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="90" y="80" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-96" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g57g3PAnQJYOMXpyq4fn-96" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="90" y="191" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-97" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="g57g3PAnQJYOMXpyq4fn-97" value="&lt;font style=&quot;font-size: 15px&quot;&gt;实例3&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="123.5" width="80" height="55" as="geometry" />
         </mxCell>
         <mxCell id="g57g3PAnQJYOMXpyq4fn-98" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.154;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="g57g3PAnQJYOMXpyq4fn-95" target="3" edge="1">
@@ -98,7 +98,7 @@
         <mxCell id="LA6HrL8H_tJhPL9a9sUO-45" value="reg.log，login.log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="320" y="187.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-115" value="&lt;font style=&quot;font-size: 15px&quot;&gt;统计日志信息&lt;br&gt;追加模式&lt;br&gt;写 sta 文件&lt;/font&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="g57g3PAnQJYOMXpyq4fn-115" value="&lt;font style=&quot;font-size: 15px&quot;&gt;统计发送数据&lt;br&gt;信息，追加模式&lt;br&gt;写 sta 文件&lt;/font&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LA6HrL8H_tJhPL9a9sUO-48" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.569;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;strokeWidth=2;" edge="1" parent="1" source="g57g3PAnQJYOMXpyq4fn-101" target="g57g3PAnQJYOMXpyq4fn-115">
