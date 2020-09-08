@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T07:21:11.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="g-xjxsu6iBOgoEewlvSf" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T07:22:31.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="W4uRTR-ahV7R_uuIumBj" version="13.6.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -55,9 +55,6 @@
         <mxCell id="g57g3PAnQJYOMXpyq4fn-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g57g3PAnQJYOMXpyq4fn-65" target="g57g3PAnQJYOMXpyq4fn-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g57g3PAnQJYOMXpyq4fn-65" target="g57g3PAnQJYOMXpyq4fn-71">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g57g3PAnQJYOMXpyq4fn-65" value="zip_and_load_data&lt;br&gt;压缩并上传给网监" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.5" y="570" width="159.5" height="80" as="geometry" />
         </mxCell>
@@ -92,12 +89,6 @@
         </mxCell>
         <mxCell id="g57g3PAnQJYOMXpyq4fn-71" value="add_sta_data&lt;br&gt;添加 sta 数据" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="240.5" y="700" width="159.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="g57g3PAnQJYOMXpyq4fn-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
-          <mxGeometry x="-0.25" y="-1195" width="100" height="100" as="geometry">
-            <mxPoint x="320" y="650" as="sourcePoint" />
-            <mxPoint x="319.75" y="700" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="g57g3PAnQJYOMXpyq4fn-74" value="success" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="660" width="40" height="26" as="geometry" />
