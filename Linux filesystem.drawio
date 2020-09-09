@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T11:08:39.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="TlCfGSLxC5u-_Hq1Iza0" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T11:10:16.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="tgny42yadzAJB3Zze9ib" version="13.6.9" type="github">
   <diagram id="ook9Db0-evyYNzVYjQom" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,6 +59,33 @@
             <mxPoint x="385" y="469.5" as="sourcePoint" />
             <mxPoint x="450" y="469.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-18" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.462;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="567" as="sourcePoint" />
+            <mxPoint x="320.02" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-19" value="&lt;span style=&quot;font-size: 16px&quot;&gt;实际文件系统&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-20" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.462;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="687" as="sourcePoint" />
+            <mxPoint x="321.02" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-21" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Buffer cache&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-22" value="" style="endArrow=none;html=1;strokeWidth=2;entryX=0.462;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="807" as="sourcePoint" />
+            <mxPoint x="321.02" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jdIevu10ISh2WPGB3EqM-23" value="&lt;span style=&quot;font-size: 16px&quot;&gt;设备驱动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
